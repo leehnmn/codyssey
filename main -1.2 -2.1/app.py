@@ -7,7 +7,7 @@ def home():
 @app.route("/menu")
 def menu():
     return render_template("menu.html")
-@app.route("/test1")
+@app.route("/test2")
 def test1():
     return render_template('test1.html')
 
