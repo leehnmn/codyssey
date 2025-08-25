@@ -1,3 +1,2 @@
 # codyssey
-
-text
+hi myname is hm.
