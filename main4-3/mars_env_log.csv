@@ -1,0 +1,8 @@
+[2025-09-09/15/25_17:30:31] 화성 기지 환경값
+ mars_base_internal_temperature : 26.2
+ mars_base_external_temperature : 11.6
+ mars_base_internal_humidity : 52.9
+ mars_base_external_illuminance : 521
+ mars_base_internal_co2 : 0.0571
+ mars_base_internal_oxygen : 4.74
+
